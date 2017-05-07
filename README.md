@@ -1,6 +1,6 @@
 # Spark_Practice_MM
 
-This project is the coding practice for MediaMath data engineer position. This application is built in Python based on Spark 2.0+ version and it includes main data processing function, shell script wrapper for main function and unit tests script. The generated results are stored in the `data/processed/` directory. All the required module can be install through pip install command. 
+This project is the coding practice for MediaMath. This application is built in Python based on Spark 2.0+ version and it includes main data processing function, shell script wrapper for main function and unit tests script. The generated results are stored in the `data/processed/` directory. All the required module can be install through pip install command. 
 
 **Required Module:** `tornado, pytest, logging, findspark`
 
