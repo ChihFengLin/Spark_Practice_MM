@@ -1,0 +1,10 @@
+advertiser_id,event_type,count
+0,click,78
+0,purchase,75
+0,visit,85
+1,click,78
+1,purchase,92
+1,visit,91
+2,click,78
+2,purchase,82
+2,visit,93
