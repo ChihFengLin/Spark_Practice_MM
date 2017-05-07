@@ -183,12 +183,3 @@ def test_get_effective_attributed_events(sql_context):
         (1, "0adb6ada-6978", "click", 1450503100, 1450503185),
         (0, "9e577b56-47a2", "purchase", 1450503300, 1450503502)
     ]
-
-
-
-
-
-
-
-
-
