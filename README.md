@@ -43,7 +43,7 @@ This project is the coding practice for MediaMath data engineer position. This a
 ```
 bash scripts/process_data.sh --partition 100 --driver_memory 3G --executor_memory 3G --executor_cores 1 --num_executors 30 --events_input_dir data/events.csv --impressions_input_dir data/impressions.csv --output_dir data --app_env dev
 ```
-Noticed that `app_env` is `dev` when you launch the cpplication in local machine. Otherwise, in the cluster environment, `app_env` should be `qa` or `prod`
+Noticed that `app_env` is `dev` when you launch the application in local machine. Otherwise, in the cluster environment, `app_env` should be `qa` or `prod`
 
 
 **Example Command for Launching Unit Test:**
