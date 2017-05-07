@@ -6,8 +6,6 @@ Required Module: `tornado, pytest, logging, findspark`
 
 Application Structure:
 
-Spark_Practice_MM/
-
     README.md
 
     data/
